@@ -1,0 +1,11 @@
+firstly we have to add the repository to the git for which we have to use the command -
+git init
+then any folder will be linked with the git
+now to see the current status of the repository we use the command-
+git status
+now for staging we use the command-
+git add .
+then to commit we use the command-
+git commit -m "version 2"
+to check the update detail including the data of the user who made changes we use the command-
+git log
